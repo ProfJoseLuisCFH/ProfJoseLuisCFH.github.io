@@ -113,7 +113,7 @@ article {
     background-color: #F8F9FA;
     border: solid rgb(200, 204, 209) 1.5px;
     float: right;
-    margin-left: 1em;
+    margin: 0 0 1em 1em;
 }
 
 .MainArticleImgDiv > img {
@@ -161,7 +161,7 @@ footer {
     justify-content: left;
 
 
-    line-height: 5px;
+    line-height: 1em;
     margin-top: auto;
 }
 
