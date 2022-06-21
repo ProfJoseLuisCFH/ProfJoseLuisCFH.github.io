@@ -83,7 +83,7 @@ article {
     border-bottom: solid rgb(237, 237, 237) 1.5px;
     font-weight: 500;
     font-family: 'Linux Libertine', Georgia, Times;
-    margin-bottom: 0.5em;
+    /*margin-bottom: 0.5em;*/
 }
 
 #MainArticle > h1 {
