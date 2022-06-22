@@ -109,6 +109,13 @@ article {
     font-size: 14px;
 }
 
+.section {
+    width: 100%;
+    overflow: auto;
+    font-size: a;
+    font-size: 14px;
+}
+
 .MainArticleImgDiv {
     background-color: #F8F9FA;
     border: solid rgb(200, 204, 209) 1.5px;
@@ -138,7 +145,7 @@ article {
 .IndexDiv {
     width: 100%;
     overflow: auto;
-    white-space: nowrap;
+    /*white-space: nowrap;*/
 }
 
 .MainArticleIndex > h1 {
